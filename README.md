@@ -1,5 +1,5 @@
 # ELIMINATORS
-This is an onggoing project in order to ease finding the physical location of the office of the professors of our university:KIIT. You can currently look up the names and email addresses of the faculties on our app. 
+This is an ongoing project in order to ease finding the physical location of the office of the professors of our university:KIIT. You can currently look up the names and email addresses of the faculties on our app. 
 
 we wish to integrate a geospatial mapping of the offices of the faculties (which is more than 2500 in our university) and help students save time:)
 
