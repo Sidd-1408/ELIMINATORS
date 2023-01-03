@@ -22,3 +22,4 @@ mapView.getMapAsync(new OnMapReadyCallback() {
 LatLng location = new LatLng(latitude, longitude);
 googleMap.addMarker(new MarkerOptions().position(location));
 //https://developers.google.com/maps/documentation/android-sdk/overview
+//needs futher encoding
